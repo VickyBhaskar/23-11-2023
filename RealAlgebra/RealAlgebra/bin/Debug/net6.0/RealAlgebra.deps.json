@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RealAlgebra/1.0.0": {
+        "dependencies": {
+          "ShapeAreaLib": "1.0.0.0"
+        },
+        "runtime": {
+          "RealAlgebra.dll": {}
+        }
+      },
+      "ShapeAreaLib/1.0.0.0": {
+        "runtime": {
+          "ShapeAreaLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealAlgebra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapeAreaLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
